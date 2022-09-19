@@ -5,7 +5,7 @@
 
 效果如下：
 
-![截图](/screenshot/timebar.jpg)
+![截图](./screenshot/timebar.jpg)
 
 ## 使用简介：
 
